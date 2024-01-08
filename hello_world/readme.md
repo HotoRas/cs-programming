@@ -4,4 +4,8 @@
 [program1](./DAY1/DAY1_Program1.cs)
 
 ## Variable Types
-[VarTypes](./DAY1/VarTypes.cs)
+- [VarTypes](./DAY1/VarTypes.cs)
+- [Constants](./DAY1/Constant.cs)
+
+## String process
+- [Strings](./DAY1/Strings.cs)
