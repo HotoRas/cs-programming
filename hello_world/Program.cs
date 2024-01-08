@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var temp = new DAY1_Program4();
+        var temp = new DAY1_Program5();
+        var temp2 = new DAY1_Program6();
     }
 }
