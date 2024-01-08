@@ -11,7 +11,7 @@
 - [Strings](./DAY1/Strings.cs)
 
 ```cs
-Console.WriteLine(%"{x} is shit"); // 가능
+Console.WriteLine($"{x} is shit"); // 가능
 ```
 
 ## Variable Types 2
@@ -22,3 +22,6 @@ var Worker = new Worker(); // var는 이런 거 할 때나 추천 (아니면 Nam
 dynamic temp; // dynamic은 런타임에 해석 -> 디버깅 겁나 빡셈 -> 안 쓰는 게 좋다
 // 파이썬도 타입 꼬여서 빡세잖아 여기서도 그럴거냐고
 ```
+
+## Test
+- [test](./DAY1/Test.cs)

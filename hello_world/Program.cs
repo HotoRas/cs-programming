@@ -6,7 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var temp = new DAY1_Program5();
-        var temp2 = new DAY1_Program6();
+        var exam = new Exam(); // type: hello_world.Exam?
+        // 생성자에 내용 다 넣어서 알아서 구름
     }
 }
