@@ -9,3 +9,7 @@
 
 ## String process
 - [Strings](./DAY1/Strings.cs)
+
+## Variable Types 2
+- [Var-vars](./DAY1/Var-vars.cs)
+- [Dyn-vars](./DAY1/Dyn-vars.cs)
