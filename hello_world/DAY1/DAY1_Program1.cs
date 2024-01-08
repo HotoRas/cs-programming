@@ -22,7 +22,7 @@ namespace hello_world2
             string man = "아저씨2";
             Console.WriteLine("Hello, World2!");
             Console.WriteLine(man);
-            new hello_world1.DAY1_Program1(args);
+            var test = new hello_world1.DAY1_Program1(args);
         }
     }
 }
