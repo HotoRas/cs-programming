@@ -12,7 +12,7 @@ class DAY1_Program1
 
 class DAY1_Program1_
 {
-    static void Main(String[] args)
+    static void Main(string[] args)
     {
         string man = "아저씨2";
         Console.WriteLine("Hello, World2!");
