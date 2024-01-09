@@ -1,16 +1,23 @@
 # Day 2
 Note: added new launch option: [launch.json](../../.vscode/launch.json)
+- Launch as IntegratedConsole
+- Build before launch
 
-## Console input
+## Part 2
+
+### Console input
 - [Basic Input](./ConsoleInput.cs)
 - [Parse it](./Parse.cs)
 
-## Cast
+### Cast
 - [Force Cast](./ForceCast.cs)
 
-## Calculators
+### Calculators
 - [Basic](./BasicCalculator.cs)
 - [Compound](./CompoundCalc.cs)
 
-## Test
+### Test
 - [Test](./Day1_Exam2.cs)
+
+## Part 3
+.keep
