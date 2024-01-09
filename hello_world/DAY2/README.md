@@ -4,7 +4,6 @@ Note: added new launch option: [launch.json](../../.vscode/launch.json)
 - Build before launch
 
 ## Part 2
-
 ### Console input
 - [Basic Input](./ConsoleInput.cs)
 - [Parse it](./Parse.cs)
@@ -27,3 +26,11 @@ Note: added new launch option: [launch.json](../../.vscode/launch.json)
 
 ### Test
 - [Test](./Day1_Exam3.cs)
+
+## Part 4
+### Loop
+- [While](./WhileLoop.cs)
+- [DoWhile](./DoWhile.cs)
+- [Control in While](./ControlInWhile.cs)
+- [For](./ForLoop.cs)
+- [ForEach](./ForEach.cs)
