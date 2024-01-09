@@ -2,7 +2,6 @@ namespace hello_world;
 
 public class Day1_Program11
 {
-    static void Main() { BasicCalculator(); }
     public static void BasicCalculator()
     {
         int
