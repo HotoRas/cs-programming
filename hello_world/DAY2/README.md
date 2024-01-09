@@ -24,3 +24,6 @@ Note: added new launch option: [launch.json](../../.vscode/launch.json)
 - [If-Else](./IfElse.cs)
 - [Switch-Case](./SwitchCase.cs)
 - [Mix](./SwitchIf.cs)
+
+### Test
+- [Test](./Day1_Exam3.cs)
