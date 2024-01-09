@@ -9,3 +9,5 @@ A few resources to get you started if this is your first C# project:
 
 ## index
 - [Day 1](./hello_world/)
+- Day 2
+  - [Chap.2](./chapter2/)
