@@ -5,7 +5,7 @@ class Day1_Program9
 {
     public Day1_Program9()
     {
-        string ageStr;
+        //string ageStr;
         int age;
         int sum;
 
@@ -18,6 +18,15 @@ class Day1_Program9
         Console.WriteLine($"Data type: {sum.GetType()}");
 
         Console.WriteLine("Input your age: ");
-        // asdf
+        age = int.Parse(Console.ReadLine()); // nullable -> warn
+        sum = age + 1;
+        Console.WriteLine($"Second age is {sum} as added 1");
+        Console.WriteLine($"Data type: {sum.GetType()}");
+
+        Console.WriteLine("Input your age: ");
+        int.TryParse(Console.ReadLine(), out age);
+        sum = age + 1;
+        Console.WriteLine($"Third age is {sum} as added 1");
+        Console.WriteLine($"Data type: {sum.GetType()}");
     }
 }
