@@ -5,7 +5,11 @@
             "type": "coreclr",
             "request": "launch",
             "program": "${workspaceFolder}/hello_world/bin/Debug/net8.0/hello_world.dll",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "preLaunchTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
         }
     ]
 }
