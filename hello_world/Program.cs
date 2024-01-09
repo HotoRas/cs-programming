@@ -4,7 +4,7 @@ namespace hello_world;
 
 class Program
 {
-    static void Main(string[] args)
+    static void hello_world(string[] args)
     {
         var exam = new Exam(); // type: hello_world.Exam?
         // 생성자에 내용 다 넣어서 알아서 구름
