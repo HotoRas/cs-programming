@@ -19,6 +19,4 @@ public class Day1_Program14
             Console.WriteLine("입력한 두 수가 같습니다.");
         else Console.WriteLine("두 번째로 입력한 수가 큰 수입니다.");
     }
-
-    static void Main() { IfElse(); }
 }
