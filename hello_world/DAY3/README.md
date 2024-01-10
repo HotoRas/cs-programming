@@ -7,3 +7,6 @@
 - [String](./Strings.cs)
 - [String Process](./StringProcess.cs)
 - [String Method](./StringMethod.cs)
+- [String Comparison](./StringComp.cs)
+  - [Test 1](./StringTest1.cs)
+  - [Test 2](./StringTest2.cs)
