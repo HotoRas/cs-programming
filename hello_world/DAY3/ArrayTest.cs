@@ -11,6 +11,14 @@ public class Day2_Program12_Exam
         Array.Sort(donuts);
         Array.Clear(donuts, 0, 1); Array.Clear(donuts, donuts.Length - 1, 1);
 
+        /*
+        // if pop out all matches:
+        Array.Clear(donuts, 0, Array.FindAll(donuts, s => s.Equals(donuts.Min())).Length);
+        Array.Clear(donuts,
+            Array.FindIndex(donuts, s => s.Equals(donuts.Max())),
+            Array.FindAll(donuts, s => s.Equals(donuts.Max())).Length);
+        */
+
         Console.WriteLine("Sum of leftover: {0}", donuts.Sum()); // IEnumerable<int>.Sum()
     }
 }
