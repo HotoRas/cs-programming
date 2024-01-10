@@ -9,7 +9,7 @@ public class Day2_Program12_Exam
         Console.WriteLine("minimum: {0}, maximum: {1}", donuts.Min(), donuts.Max());
 
         Array.Sort(donuts);
-        Array.Clear(donuts, 0, 1); Array.Clear(donuts, 9, 1);
+        Array.Clear(donuts, 0, 1); Array.Clear(donuts, donuts.Length - 1, 1);
 
         Console.WriteLine("Sum of leftover: {0}", donuts.Sum()); // IEnumerable<int>.Sum()
     }
