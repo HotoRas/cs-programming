@@ -15,7 +15,8 @@ public class Day2_Program12_Exam
         // if pop out all matches:
         Array.Clear(donuts, 0, Array.FindAll(donuts, s => s.Equals(donuts.Min())).Length);
         Array.Clear(donuts,
-            Array.FindIndex(donuts, s => s.Equals(donuts.Max())),
+            Array.FindIndex(donuts, s => s.Equals(donuts.Max()))
+            - Array.FindAll(donuts, s=>s.Equals(donuts.Max())).Length,
             Array.FindAll(donuts, s => s.Equals(donuts.Max())).Length);
         */
 
