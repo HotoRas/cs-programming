@@ -10,3 +10,4 @@ A few resources to get you started if this is your first C# project:
 ## index
 - [Day 1](./hello_world/DAY1/)
 - [Day 2](./hello_world/DAY2/)
+- [Day 3](./hello_world/DAY3/)

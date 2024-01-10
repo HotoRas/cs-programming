@@ -35,5 +35,5 @@ Note: added new launch option: [launch.json](../../.vscode/launch.json)
 - [For](./ForLoop.cs)
 - [For in While](./ForInWhile.cs)
 - [ForEach](./ForEach.cs)
-### Exam A
+### Test A
 - [Test 1](./Day2_Exam1.cs)
