@@ -15,5 +15,4 @@ public class Day2_Program27
         int.TryParse(Console.ReadLine(), out int n);
         Console.WriteLine("Result: {0}", Factorial(n));
     }
-    static void Main() { SelfCallRecursive(); }
 }

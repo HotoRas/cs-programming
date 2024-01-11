@@ -10,3 +10,7 @@
 - [Reference Param](./RefValueSend.cs)
 - [Out Call Param](./OutCallValue.cs)
 - [In Call Param](./InCallParam.cs)
+- [Self Call Recursive](./SelfCallRecursive.cs)
+  - [Fix](./SelfCallRecursiveFix.cs)
+- [Overload](./FuncOverload.cs)
+  - [Test](./ScoreAveragePrn.cs)
