@@ -66,6 +66,4 @@ public class Day2_Program21_Exam
         foreach (int i in args) mul *= i;
         return mul;
     }
-
-    static void Main() { while (ProgramStart()) { } }
 }
