@@ -1,7 +1,6 @@
 namespace csproject;
 public class Week1_Test1
 {
-    static void Main() { MainLoop(); }
 
     /// <summary>
     /// Main program loop.
