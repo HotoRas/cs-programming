@@ -1,6 +1,7 @@
 namespace Day3_Program5_Test;
 public class Main
 {
+    // static void Main(string[] args) { MenuLoop(); }
     static void MenuLoop()
     {
         StudentManage student = new();
