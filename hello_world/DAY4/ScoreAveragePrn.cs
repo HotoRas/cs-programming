@@ -57,6 +57,4 @@ public class Day2_Program30
 
         Console.WriteLine($"평균: {score.Average()}");
     }
-
-    static void Main() { MenuLoop(); }
 }
