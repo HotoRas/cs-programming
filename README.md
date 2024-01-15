@@ -14,3 +14,6 @@ A few resources to get you started if this is your first C# project:
 - [Day 3](./hello_world/DAY3/)
 - [Day 4](./hello_world/DAY4/)
 - [Day 5 - Test](./hello_world/TEST1/)
+
+### week 2
+- [Day 6](./hello_world/DAY6/)
