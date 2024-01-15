@@ -12,11 +12,11 @@ public class Day3_Program8
         for (int i = 0; i < 5; i++)
         {
             Initial3 test1 = new(i);
-            //GC.Collect(); // clean the unhandlables 
+            //GC.Collect(); // clean the unhandlables
         }
     }
 
-    static void Main(string[] args) { ClassDestructor(); GC.Collect(); }
+    // static void Main(string[] args) { ClassDestructor(); GC.Collect(); }
 }
 
 class Initial3

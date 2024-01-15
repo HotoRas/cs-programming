@@ -5,3 +5,6 @@
 - [Public or Private](./PublicOrPrivate.cs)
 - [Get/Set Method for Private inst.](./GetSetMethodPrivate.cs)
   - [Test](./StudentManRefined.cs)
+- [Constructor](./ClassConstructor.cs)
+  - [Overload](./OverloadConstuctor.cs)
+- [Destructor](./ClassDestructor.cs)
