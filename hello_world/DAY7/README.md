@@ -5,3 +5,4 @@
 - [Subclass](./Subclass.cs)
   - [Access to Subclass](./AccessSubclass.cs)
 - [Partial Class](./PartialClass.cs)
+  - [Test](./StudentInOutFixFix.cs)
