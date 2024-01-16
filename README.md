@@ -17,3 +17,4 @@ A few resources to get you started if this is your first C# project:
 
 ### week 2
 - [Day 6](./hello_world/DAY6/)
+- [Day 7](./hello_world/DAY7/)
