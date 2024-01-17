@@ -45,7 +45,7 @@ public class Program
         ObjectInit calculator = new(new Calculator());
         calculator.Run();
     }
-    // */
+    //*/
 }
 
 class ObjectInit
