@@ -1,5 +1,3 @@
-using System.Xml.Serialization;
-
 namespace csproject;
 public class Day4_Program7
 {
